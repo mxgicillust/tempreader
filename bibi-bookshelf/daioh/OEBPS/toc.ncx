@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="B0DQ432Z1X" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+<docTitle>
+  <text>【電子版】電撃マオウ 2025年3月号</text>
+</docTitle>
+<navMap>
+<navPoint id="navPoint-1" playOrder="1">
+	<navLabel><text>表紙</text></navLabel>
+	<content src="Text/p-cover.xhtml" />
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+	<navLabel><text>巻頭記事</text></navLabel>
+	<content src="Text/p-002.xhtml" />
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+	<navLabel><text>愚かな天使は悪魔と踊る</text></navLabel>
+	<content src="Text/p-004.xhtml" />
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+	<navLabel><text>【新連載】　そしてヒーローと嘘を吐く</text></navLabel>
+	<content src="Text/p-036.xhtml" />
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+	<navLabel><text>カムパネルラの塔</text></navLabel>
+	<content src="Text/p-092.xhtml" />
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+	<navLabel><text>田中家、転生する。</text></navLabel>
+	<content src="Text/p-122.xhtml" />
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+	<navLabel><text>マッドミニスケープ</text></navLabel>
+	<content src="Text/p-146.xhtml" />
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+	<navLabel><text>おっさん、転生して天才役者になる</text></navLabel>
+	<content src="Text/p-172.xhtml" />
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+	<navLabel><text>【新連載】 夢後のグレイ</text></navLabel>
+	<content src="Text/p-198.xhtml" />
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+	<navLabel><text>ざつ旅-That's Journey-</text></navLabel>
+	<content src="Text/p-248.xhtml" />
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+	<navLabel><text>あしたのあした</text></navLabel>
+	<content src="Text/p-276.xhtml" />
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+	<navLabel><text>ざつ旅 -Another Side View- 蓮沼暦の日常</text></navLabel>
+	<content src="Text/p-282.xhtml" />
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+	<navLabel><text>【特別掲載】 勝利の女神：NIKKE 電撃コミックアンソロジー</text></navLabel>
+	<content src="Text/p-296.xhtml" />
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+	<navLabel><text>【連載再開】 転生王女と天才令嬢の魔法革命</text></navLabel>
+	<content src="Text/p-304.xhtml" />
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+	<navLabel><text>聖女先生の魔法は進んでる！</text></navLabel>
+	<content src="Text/p-330.xhtml" />
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+	<navLabel><text>蠱毒の胡蝶はどんな夢を見るのか？</text></navLabel>
+	<content src="Text/p-360.xhtml" />
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+	<navLabel><text>アクアリウムは踊らない</text></navLabel>
+	<content src="Text/p-364.xhtml" />
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+	<navLabel><text>幼馴染は、にゃあと鳴いてスカートのなか</text></navLabel>
+	<content src="Text/p-400.xhtml" />
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+	<navLabel><text>リビルドワールド</text></navLabel>
+	<content src="Text/p-426.xhtml" />
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+	<navLabel><text>おいのち頂戴！</text></navLabel>
+	<content src="Text/p-458.xhtml" />
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+	<navLabel><text>私を喰べたい、ひとでなし</text></navLabel>
+	<content src="Text/p-488.xhtml" />
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+	<navLabel><text>リアリスト魔王による聖域なき異世界改革</text></navLabel>
+	<content src="Text/p-512.xhtml" />
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+	<navLabel><text>T.Tラバーズ。</text></navLabel>
+	<content src="Text/p-542.xhtml" />
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+	<navLabel><text>終末ツーリング</text></navLabel>
+	<content src="Text/p-566.xhtml" />
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+	<navLabel><text>チュートリアルが始まる前に ボスキャラ達を破滅させない為に俺ができる幾つかの事</text></navLabel>
+	<content src="Text/p-586.xhtml" />
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+	<navLabel><text>転生してあらゆるモノに好かれながら異世界で好きな事をして生きて行く</text></navLabel>
+	<content src="Text/p-612.xhtml" />
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+	<navLabel><text>無敵商人の異世界成り上がり物語 ～現代の製品を自在に取り寄せるスキルがあるので異世界では楽勝です～</text></navLabel>
+	<content src="Text/p-640.xhtml" />
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+	<navLabel><text>組織の宿敵と結婚したらめちゃ甘い</text></navLabel>
+	<content src="Text/p-660.xhtml" />
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+	<navLabel><text>魔物喰らい ランキング最下位の冒険者は魔物の力で最強へ</text></navLabel>
+	<content src="Text/p-690.xhtml" />
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+	<navLabel><text>Missing</text></navLabel>
+	<content src="Text/p-714.xhtml" />
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+	<navLabel><text>レプリカだって、恋をする。</text></navLabel>
+	<content src="Text/p-740.xhtml" />
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+	<navLabel><text>辺境の魔法薬師 ～自由気ままな異世界ものづくり日記～</text></navLabel>
+	<content src="Text/p-772.xhtml" />
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+	<navLabel><text>ぷちます！</text></navLabel>
+	<content src="Text/p-788.xhtml" />
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+	<navLabel><text>猫灰だらけの解き直し</text></navLabel>
+	<content src="Text/p-796.xhtml" />
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+	<navLabel><text>わしジジイ、齢六十にして天賦の才に気付く</text></navLabel>
+	<content src="Text/p-828.xhtml" />
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+	<navLabel><text>アプリコットファズ</text></navLabel>
+	<content src="Text/p-848.xhtml" />
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+	<navLabel><text>王立魔術学院の鬼畜講師</text></navLabel>
+	<content src="Text/p-882.xhtml" />
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+	<navLabel><text>【最終回】魔王城、空き部屋あります！</text></navLabel>
+	<content src="Text/p-908.xhtml" />
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+	<navLabel><text>大川ぶくぶのクソマンガ道場</text></navLabel>
+	<content src="Text/p-919.xhtml" />
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+	<navLabel><text>マオウ新人賞</text></navLabel>
+	<content src="Text/p-924.xhtml" />
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+	<navLabel><text>巻末記事</text></navLabel>
+	<content src="Text/p-927.xhtml" />
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+	<navLabel><text>巻末コメント</text></navLabel>
+	<content src="Text/p-931.xhtml" />
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+	<navLabel><text>付録：『勝利の女神：NIKKE』クリアフォトフレーム</text></navLabel>
+	<content src="Text/p-933.xhtml" />
+</navPoint>
+
+</navMap>
+</ncx>
