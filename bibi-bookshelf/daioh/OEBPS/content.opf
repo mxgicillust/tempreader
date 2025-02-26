@@ -7,15 +7,15 @@
          ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/"
 >
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title id="title">【電子版】電撃マオウ 2025年3月号</dc:title>
-    <meta refines="#title" property="file-as">デンシバンデンゲキマオウ2025ネン3ガツゴウ</meta>
+    <dc:title id="title">【電子版】電撃マオウ 2025年4月号</dc:title>
+    <meta refines="#title" property="file-as">デンシバンデンゲキマオウ2025ネン4ガツゴウ</meta>
     <dc:language>ja</dc:language>
-    <dc:identifier id="ASIN">B0DQ432Z1X</dc:identifier>
-    <meta property="dcterms:modified">2025-01-26T10:40:16Z</meta>
+    <dc:identifier id="ASIN">B0DSJ4ZWN7</dc:identifier>
+    <meta property="dcterms:modified">2025-02-26T11:12:29Z</meta>
     <dc:creator id="creator0">電撃マオウ編集部</dc:creator>
     <dc:publisher id="publisher">株式会社ＫＡＤＯＫＡＷＡ</dc:publisher>
     <meta refines="#publisher" property="file-as">カドカワ</meta>
-    <dc:date>2025-01-27</dc:date>
+    <dc:date>2025-02-27</dc:date>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="rendition:orientation">auto</meta>
     <meta property="rendition:spread">landscape</meta>
@@ -25,7 +25,7 @@
     <meta name="original-resolution" content="1114x1600" />
 
 <!-- Other meta from azw3
-<meta name="Updated_Title_(503)" content="【電子版】電撃マオウ 2025年3月号 [雑誌]" />
+<meta name="Updated_Title_(503)" content="【電子版】電撃マオウ 2025年4月号 [雑誌]" />
 -->
     <dc:contributor id="tool">UnpackKindleS ver.20220126</dc:contributor>
     <meta refines="#tool" property="role" scheme="marc:relators">bkp</meta>
@@ -964,13 +964,11 @@
 <item href="Text/p-930.xhtml" id="p-930" media-type="application/xhtml+xml" properties="svg" />
 <item href="Text/p-931.xhtml" id="p-931" media-type="application/xhtml+xml" properties="svg" />
 <item href="Text/p-932.xhtml" id="p-932" media-type="application/xhtml+xml" properties="svg" />
-<item href="Text/p-933.xhtml" id="p-933" media-type="application/xhtml+xml" properties="svg" />
-<item href="Text/p-934.xhtml" id="p-934" media-type="application/xhtml+xml" properties="svg" />
 <item href="Text/p-colophon.xhtml" id="p-colophon" media-type="application/xhtml+xml" properties="svg" />
 <item href="Text/p-bookwalker.xhtml" id="p-bookwalker" media-type="application/xhtml+xml" properties="svg" />
 <item href="Images/embed0000_HD.jpg" properties="cover-image" id="embed0000_HD" media-type="image/jpeg" />
 <item href="Images/embed0001.jpg" id="embed0001" media-type="image/jpeg" />
-<item href="Images/embed0002_HD.jpg" id="embed0002_HD" media-type="image/jpeg" />
+<item href="Images/embed0002.jpg" id="embed0002" media-type="image/jpeg" />
 <item href="Images/embed0003.jpg" id="embed0003" media-type="image/jpeg" />
 <item href="Images/embed0004.jpg" id="embed0004" media-type="image/jpeg" />
 <item href="Images/embed0005.jpg" id="embed0005" media-type="image/jpeg" />
@@ -1155,7 +1153,7 @@
 <item href="Images/embed0184.jpg" id="embed0184" media-type="image/jpeg" />
 <item href="Images/embed0185.jpg" id="embed0185" media-type="image/jpeg" />
 <item href="Images/embed0186.jpg" id="embed0186" media-type="image/jpeg" />
-<item href="Images/embed0187_HD.jpg" id="embed0187_HD" media-type="image/jpeg" />
+<item href="Images/embed0187.jpg" id="embed0187" media-type="image/jpeg" />
 <item href="Images/embed0188.jpg" id="embed0188" media-type="image/jpeg" />
 <item href="Images/embed0189.jpg" id="embed0189" media-type="image/jpeg" />
 <item href="Images/embed0190.jpg" id="embed0190" media-type="image/jpeg" />
@@ -1176,12 +1174,12 @@
 <item href="Images/embed0205.jpg" id="embed0205" media-type="image/jpeg" />
 <item href="Images/embed0206.jpg" id="embed0206" media-type="image/jpeg" />
 <item href="Images/embed0207.jpg" id="embed0207" media-type="image/jpeg" />
-<item href="Images/embed0208.jpg" id="embed0208" media-type="image/jpeg" />
-<item href="Images/embed0209.jpg" id="embed0209" media-type="image/jpeg" />
-<item href="Images/embed0210.jpg" id="embed0210" media-type="image/jpeg" />
+<item href="Images/embed0208_HD.jpg" id="embed0208_HD" media-type="image/jpeg" />
+<item href="Images/embed0209_HD.jpg" id="embed0209_HD" media-type="image/jpeg" />
+<item href="Images/embed0210_HD.jpg" id="embed0210_HD" media-type="image/jpeg" />
 <item href="Images/embed0211.jpg" id="embed0211" media-type="image/jpeg" />
 <item href="Images/embed0212.jpg" id="embed0212" media-type="image/jpeg" />
-<item href="Images/embed0213.jpg" id="embed0213" media-type="image/jpeg" />
+<item href="Images/embed0213_HD.jpg" id="embed0213_HD" media-type="image/jpeg" />
 <item href="Images/embed0214.jpg" id="embed0214" media-type="image/jpeg" />
 <item href="Images/embed0215.jpg" id="embed0215" media-type="image/jpeg" />
 <item href="Images/embed0216.jpg" id="embed0216" media-type="image/jpeg" />
@@ -1202,7 +1200,7 @@
 <item href="Images/embed0231.jpg" id="embed0231" media-type="image/jpeg" />
 <item href="Images/embed0232.jpg" id="embed0232" media-type="image/jpeg" />
 <item href="Images/embed0233.jpg" id="embed0233" media-type="image/jpeg" />
-<item href="Images/embed0234.jpg" id="embed0234" media-type="image/jpeg" />
+<item href="Images/embed0234_HD.jpg" id="embed0234_HD" media-type="image/jpeg" />
 <item href="Images/embed0235.jpg" id="embed0235" media-type="image/jpeg" />
 <item href="Images/embed0236.jpg" id="embed0236" media-type="image/jpeg" />
 <item href="Images/embed0237.jpg" id="embed0237" media-type="image/jpeg" />
@@ -1411,7 +1409,7 @@
 <item href="Images/embed0440.jpg" id="embed0440" media-type="image/jpeg" />
 <item href="Images/embed0441.jpg" id="embed0441" media-type="image/jpeg" />
 <item href="Images/embed0442.jpg" id="embed0442" media-type="image/jpeg" />
-<item href="Images/embed0443_HD.jpg" id="embed0443_HD" media-type="image/jpeg" />
+<item href="Images/embed0443.jpg" id="embed0443" media-type="image/jpeg" />
 <item href="Images/embed0444.jpg" id="embed0444" media-type="image/jpeg" />
 <item href="Images/embed0445.jpg" id="embed0445" media-type="image/jpeg" />
 <item href="Images/embed0446.jpg" id="embed0446" media-type="image/jpeg" />
@@ -1547,8 +1545,8 @@
 <item href="Images/embed0576.jpg" id="embed0576" media-type="image/jpeg" />
 <item href="Images/embed0577.jpg" id="embed0577" media-type="image/jpeg" />
 <item href="Images/embed0578.jpg" id="embed0578" media-type="image/jpeg" />
-<item href="Images/embed0579.jpg" id="embed0579" media-type="image/jpeg" />
-<item href="Images/embed0580_HD.jpg" id="embed0580_HD" media-type="image/jpeg" />
+<item href="Images/embed0579_HD.jpg" id="embed0579_HD" media-type="image/jpeg" />
+<item href="Images/embed0580.jpg" id="embed0580" media-type="image/jpeg" />
 <item href="Images/embed0581.jpg" id="embed0581" media-type="image/jpeg" />
 <item href="Images/embed0582.jpg" id="embed0582" media-type="image/jpeg" />
 <item href="Images/embed0583.jpg" id="embed0583" media-type="image/jpeg" />
@@ -1765,7 +1763,7 @@
 <item href="Images/embed0794.jpg" id="embed0794" media-type="image/jpeg" />
 <item href="Images/embed0795.jpg" id="embed0795" media-type="image/jpeg" />
 <item href="Images/embed0796.jpg" id="embed0796" media-type="image/jpeg" />
-<item href="Images/embed0797.jpg" id="embed0797" media-type="image/jpeg" />
+<item href="Images/embed0797_HD.jpg" id="embed0797_HD" media-type="image/jpeg" />
 <item href="Images/embed0798.jpg" id="embed0798" media-type="image/jpeg" />
 <item href="Images/embed0799.jpg" id="embed0799" media-type="image/jpeg" />
 <item href="Images/embed0800.jpg" id="embed0800" media-type="image/jpeg" />
@@ -1903,8 +1901,6 @@
 <item href="Images/embed0932.jpg" id="embed0932" media-type="image/jpeg" />
 <item href="Images/embed0933.jpg" id="embed0933" media-type="image/jpeg" />
 <item href="Images/embed0934.jpg" id="embed0934" media-type="image/jpeg" />
-<item href="Images/embed0935.jpg" id="embed0935" media-type="image/jpeg" />
-<item href="Images/embed0936.jpg" id="embed0936" media-type="image/jpeg" />
 <item href="Styles/flow0001.css" id="flow0001" media-type="text/css" />
 <item href="toc.ncx" id="ncxuks" media-type="application/x-dtbncx+xml" />
 <item href="nav.xhtml" id="navuks" media-type="application/xhtml+xml" properties="nav" />
@@ -2843,8 +2839,6 @@
 <itemref linear="yes" idref="p-930" properties="page-spread-left" />
 <itemref linear="yes" idref="p-931" properties="page-spread-right" />
 <itemref linear="yes" idref="p-932" properties="page-spread-left" />
-<itemref linear="yes" idref="p-933" properties="page-spread-right" />
-<itemref linear="yes" idref="p-934" properties="page-spread-left" />
 <itemref linear="yes" idref="p-colophon" properties="page-spread-right" />
 <itemref linear="yes" idref="p-bookwalker" properties="page-spread-left" />
 </spine>
