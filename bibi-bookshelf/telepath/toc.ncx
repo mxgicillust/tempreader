@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ja">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:7RG4FRWK-D5H2-KXWJ-MSGR-2KF4A8ZWLD85"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (7.26.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>星屑テレパス ５巻</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>表紙</text>
+      </navLabel>
+      <content src="OEBPS/text/p_cover.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>描きおろし</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0001.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>番外編 茜色ダイアリー</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0004.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>目次</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0006.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>第４５話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0007.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>第４６話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0015.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>第４７話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0025.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>第４８話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0035.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>第４９話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0045.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>第５０話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0055.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>第５１話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0065.xhtml"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>第５２話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0073.xhtml"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>第５３話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0081.xhtml"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>第５４話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0089.xhtml"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>第５５話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0099.xhtml"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>第５６話</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0111.xhtml"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>あとがき</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0119.xhtml"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>奥付</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0120.xhtml"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>最終ページ</text>
+      </navLabel>
+      <content src="OEBPS/text/p_0123.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
